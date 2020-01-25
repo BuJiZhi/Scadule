@@ -1,2 +1,0 @@
-# Scadule
-Created with CodeSandbox

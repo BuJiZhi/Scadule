@@ -1,0 +1,30 @@
+.display-root {
+  position: absolute;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  overflow: auto;
+  background-color: #333;
+}
+
+.classRoom {
+  display: flex;
+  flex-direction: row;
+  position: relative;
+  width: 1350px;
+  margin: 0 auto;
+  background-color: #333;
+}
+
+.canvas {
+  position: relative;
+  width: 100%;
+  margin: 0 auto;
+  padding: 0;
+  overflow: auto;
+}
+
+.inputField {
+  display: flex;
+}

@@ -1,0 +1,50 @@
+{
+  "result": 0,
+  "data": {
+    "teachers": ["Liu", "Wang", "Sun", "Gu", "Jin", "Jun"],
+    "todos": [
+      {
+        "id": "0001",
+        "type": "buke",
+        "teacher": "Wang",
+        "date": "2020-1-4",
+        "timeBegin": "17:45",
+        "timeEnd": "18:30",
+        "payload": {
+          "class": "HZ08SX1914",
+          "lesson": "shuixianhuashu",
+          "count": 32,
+          "oldTeacher": "Liu"
+        }
+      },
+      {
+        "id": "0002",
+        "type": "zhengshike",
+        "teacher": "Jin",
+        "date": "2020-1-6",
+        "timeBegin": "17:45",
+        "timeEnd": "18:30",
+        "payload": {
+          "class": "HZ08SX1914",
+          "lesson": "shuixianhuashu",
+          "count": 32,
+          "oldTeacher": "Liu"
+        }
+      },
+      {
+        "id": "0004",
+        "type": "peixun",
+        "teacher": "Wang",
+        "date": "2020-1-5",
+        "timeBegin": "16:00",
+        "timeEnd": "17:30",
+        "payload": {
+          "class": "HZ08SX1914",
+          "lesson": "shuixianhuashu",
+          "count": 32,
+          "oldTeacher": "Liu"
+        }
+      }
+    ]
+  }
+}
